@@ -1,6 +1,6 @@
 {
     "require": {
-        "dompdf/dompdf": "^0.8.2",
+        "dompdf/dompdf": "^1.2.1",
       "ext-mysqli": "*",
       "ext-json": "*"
     }
